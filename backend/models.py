@@ -5,3 +5,4 @@ class Student(BaseModel):
     rno  : str
     section : str
     marks : list
+        
